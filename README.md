@@ -1,7 +1,5 @@
-👋 Hi my name is Sarah Ribeiro, I have 16 years old and actually I'm a junior backend developer. 
-
-🌱 Actually I am learning frameworks like nestJS
+👋 Hi my name is Sarah Ribeiro, I have 16 years old and actually I'm a Frontend Developer. 
  
-👀 I know HTML, CSS, Javascript and Java
+👀 I knowledges about Javascript, NodeJs and ReactJs
 
 My email to contact: sarahribeirodasilva0912@gmail.com
