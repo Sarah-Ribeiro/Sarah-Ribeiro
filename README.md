@@ -4,6 +4,6 @@
  
 <p align="center">👀 I have knowledges about Java, Spring Boot and ReactJS.</p>
 
-<p align="center">✉️ Email for contant: <a>ribeirosarah0912@gmail.com</a> </p>
+<p align="center">✉️ Email for contant: ribeirosarah0912@gmail.com </p>
 
 
