@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Sarah and I have 17 years old. I am a Software Engineer Student by FIAP and I am a programmer<br>since abril 2020. I have knowledges about HTML, CSS, Javascript, Java, Spring Boot, NestJS, NodeJS and ReactJS.<br><br>I am working right now as an intern in SManager, as a software developer<br><br>I have a intermediate english<br><br>
+My name is Sarah and I have 17 years old. I am a Software Engineer Student by FIAP and I am a programmer<br>since abril 2020. I have knowledges about HTML, CSS, Javascript, Java, Spring Boot, NestJS, NodeJS and ReactJS.<br><br>I am working right now as an intern in SManager, as a software developer.<br><br>
 
 
 ## 🌐 Socials:
