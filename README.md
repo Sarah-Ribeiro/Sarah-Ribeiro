@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Sarah, a 17-year-old software engineering student at FIAP. I've been programming since April 2020 and have gained expertise in various technologies, including HTML, CSS, JavaScript, Java, Spring Boot, NestJS, NodeJS, and ReactJS.<br><br>Currently, I'm interning at SManager as a software developer, where I'm honing my skills and learning new things every day.<br><br>I have intermediate proficiency in English and am always eager to improve my communication skills. In my free time, I enjoy exploring new technologies and experimenting with different programming paradigms.<br><br>Feel free to check out my repositories and connect with me on LinkedIn!
+Hey there, I'm Sarah, a 17-year-old software engineering student at FIAP. I've been programming since April 2020 and have gained expertise in various technologies, including HTML, CSS, JavaScript, Java, Spring Boot, NestJS, NodeJS, and ReactJS.<br><br>Currently, I'm interning at SManager as a software developer, where I'm honing my skills and learning new things every day.<br><br>I have intermediate proficiency in English and am always eager to improve my communication skills.<br><br>Feel free to check out my repositories and connect with me on LinkedIn!
 
 
 ## 🌐 Socials:
