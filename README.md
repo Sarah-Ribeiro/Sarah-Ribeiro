@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hello! <br><br>My name is Sarah Ribeiro da Silva, I live in the capital of São Paulo, I am a Software Engineering student at FIAP going into my third year and a Junior Systems Analyst at SManager. At 19 years old, I aim to specialize in backend development with Liferay and Java.<br><br>My experience includes skills with Python, Java, Liferay, ReactJS and I have also taken data science courses at Alura. I am also fluent in English and eager to learn new languages ​​to broaden my cultural and professional perspective.<br><br>In my current role, I focus on website development and support, using Java and Liferay, I have also taken OpenShift courses and a Liferay bootcamp. I have also participated in projects such as a POC at ICI and also one at SEMAD in Minas Gerais.<br><br>At FIAP, I am delving into details such as database management, dynamic programming and 3D modeling. I enjoy exploring practical and creative solutions to problems, which helps me develop a strategic vision in software development.<br><br>I am driven by the desire to see real results and the continuous pursuit of knowledge. I am excited to explore various areas of technology and discover where my skills and passions align to make an impact.<br><br>Thank you for visiting my profile!<br><br>Best regards,<br><br>Sarah Ribeiro
+Como Analista de Sistemas Júnior na SManager, contribuo para projetos que utilizam o Red Hat OpenShift Container Platform, instalando e configurando ferramentas como AMQ Broker, Red Hat Data Grid e Red Hat Broker Keycloak em ambientes de staging e produção.
+<br><br>
+Também possuo experiência prática com Liferay DXP, trabalhando em equipes colaborativas e dinâmicas para entregar soluções corporativas — o que aprimorou minhas habilidades de resolução de problemas e adaptabilidade em cenários do mundo real.
+<br><br>
+Atualmente, estou cursando Engenharia de Software na FIAP (formatura: dezembro de 2026) e sou apaixonado por desenvolvimento backend com Java. Concluí o curso Spring Boot da Alura e tenho experiência prática com Quarkus, adquirida durante meu estágio.
+<br><br>
+Além de frameworks de backend, trabalhei com tecnologias como React JS, Python, Oracle SQL e Arduino, e possuo certificações em Python para Ciência de Dados, Análise e Visualização de Dados (Alura) e Social e Sustentabilidade (FIAP). Sou movido pelo aprendizado contínuo e pelo desejo de criar soluções de software escaláveis ​e impactantes.
 
 
 ## 🌐 Socials:
